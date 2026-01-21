@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "name": "Projekty",
+      "source": "workspace/projects",
+      "backup": "backup/projects",
+      "enabled": true,
+      "extensions": [".py", ".json"]
+    },
+    {
+      "name": "Dokumenty",
+      "source": "workspace/docs",
+      "backup": "backup/docs",
+      "enabled": true,
+      "extensions": [".txt", ".docx"]
+    }
+  ]
+}
