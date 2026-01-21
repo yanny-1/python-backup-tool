@@ -15,4 +15,4 @@ A Python script that copies files from source folders to backup folders based on
 1. Configure `tasks.json` with source and backup folders and file extensions.
 2. Run the script:
 ```bash
-python backup_script.py
+python script.py
